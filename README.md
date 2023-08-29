@@ -15,7 +15,10 @@ Taking attendance manually in class of students consumes a lot of time which cou
 
 # Data Analytics
 ● The data analytics part of this project includes marking absence or presence, predicting future attendance, and visualizing the data. 
-● We have used Jupyter Notebook for this process. Libraries such as Pandas, Numpy, Matplotlib, and Scikit Learn have been used. ● Assigning presence or absence based on the entry time.
+<br>
+● We have used Jupyter Notebook for this process. Libraries such as Pandas, Numpy, Matplotlib, and Scikit Learn have been used. 
+<br>
+● Assigning presence or absence based on the entry time.
 
 ![image](https://github.com/meenakshi311/IOT-based-Smart-Attendance-System-with-WebApp/assets/80347426/18f9b221-1fd3-4bfd-84d7-3491424e17a3)
 
