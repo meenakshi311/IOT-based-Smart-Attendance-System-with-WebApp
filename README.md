@@ -7,8 +7,11 @@ Taking attendance manually in class of students consumes a lot of time which cou
 ![image](https://github.com/meenakshi311/IOT-based-Smart-Attendance-System-with-WebApp/assets/80347426/e2c39c0b-7b60-4bad-a6d7-5aa4620deb93)
 # Graphical User Interface
 ● The XAMPP Control Panel Database is used in this project to build a visual server that stores each student's attendance information. 
+<br>
 ● One database was created using the XAMPP Control Panel database named “rfidattendance” which consists of admin, devices, users, and user logs. 
+<br>
 ● Information about the students who attended a lecture class is kept in the "users" database. 
+<br>
 ● The administration or lecturer uses this information to identify and manipulate each student's attendance data.
 
 ![image](https://github.com/meenakshi311/IOT-based-Smart-Attendance-System-with-WebApp/assets/80347426/38c2f550-8fc3-4994-9680-2eb8a6f5da16)
