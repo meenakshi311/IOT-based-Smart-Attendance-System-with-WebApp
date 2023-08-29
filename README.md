@@ -11,14 +11,18 @@ Taking attendance manually in class of students consumes a lot of time which cou
 ● Information about the students who attended a lecture class is kept in the "users" database. 
 ● The administration or lecturer uses this information to identify and manipulate each student's attendance data.
 ![image](https://github.com/meenakshi311/IOT-based-Smart-Attendance-System-with-WebApp/assets/80347426/38c2f550-8fc3-4994-9680-2eb8a6f5da16)
+
 # Data Analytics
 ● The data analytics part of this project includes marking absence or presence, predicting future attendance, and visualizing the data. 
 ● We have used Jupyter Notebook for this process. Libraries such as Pandas, Numpy, Matplotlib, and Scikit Learn have been used. ● Assigning presence or absence based on the entry time.
 ![image](https://github.com/meenakshi311/IOT-based-Smart-Attendance-System-with-WebApp/assets/80347426/18f9b221-1fd3-4bfd-84d7-3491424e17a3)
+
 ● Visualizing the number of present vs. absent students every day using a Bar plot.
 ![image](https://github.com/meenakshi311/IOT-based-Smart-Attendance-System-with-WebApp/assets/80347426/17c505c6-2704-4c5a-a407-4a134ff8f20e)
+
 ● Prediction of the next day’s attendance using the Random forest regressor model.
 ![image](https://github.com/meenakshi311/IOT-based-Smart-Attendance-System-with-WebApp/assets/80347426/fb199208-ca8b-484f-a2a9-047793134882)
+
 # Results
 The experimental results show that the proposed system designed for attendance management has provided significant results in managing attendance through the RFID system, and it has revolutionized the method of registering attendance. The web GUI provided gives better clarity of the attendance registered and helps in generating reports as and when needed.
 
